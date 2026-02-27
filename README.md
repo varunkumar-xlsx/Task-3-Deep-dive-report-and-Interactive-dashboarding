@@ -1,5 +1,7 @@
 #   📊 US Retail Sales Dashboard — Power BI
- A 4-year sales intelligence dashboard built wtih Power BI using the us Retail dataset(2015-2018).
+ > A 4-year sales intelligence dashboard built wtih Power BI using the us Retail dataset(2015-2018).
+ > Deep-dive segmentation analysis + interactive Power BI dashboard
+
 
 ## 🔍 Overview
 - **9,800 transactions** across 4 years
@@ -28,8 +30,14 @@
   ## 🗂️ Files
   [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMzM2MDYzMjktMjg3Yy00OTFkLWI5ZWQtN2YwOThlNzhiYjY3IiwidCI6ImZiMDVmNjc2LWQyN2UtNGIwMS1hNWJiLWY4MDU4YjFiNGY5ZiJ9)
 
-  ## 🚀 How to Use
+  ##  🧰 Tools used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - US Retail Dataset (2015–2018)
+
+  ## 🚀 How to Use
+1. Download `sales_dashboard.pbix`
+2. Open with Power BI Desktop
+3. Explore the dashboard pages
+
 
